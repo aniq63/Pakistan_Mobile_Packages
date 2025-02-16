@@ -43,6 +43,10 @@ streamlit run app.py
 ## Example Query
 _"What is the best package for PUBG?"_
 
+## DEPLOYMENT
+This is deploy on a hugging face
+https://huggingface.co/spaces/Aniq-63/Pakistan_Mobile_Packages/blob/main/app.py
+
 ## Dependencies
 - Python 3.8+
 - Streamlit
