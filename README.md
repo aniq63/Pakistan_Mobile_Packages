@@ -45,7 +45,7 @@ _"What is the best package for PUBG?"_
 
 ## DEPLOYMENT
 This is deploy on a hugging face
-https://huggingface.co/spaces/Aniq-63/Pakistan_Mobile_Packages/blob/main/app.py
+https://huggingface.co/spaces/Aniq-63/Pakistan_Mobile_Packages
 
 ## Dependencies
 - Python 3.8+
